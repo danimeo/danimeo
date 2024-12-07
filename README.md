@@ -1,4 +1,4 @@
-## Hi, my name is Dajun (Danim). Welcome to my Github page!
+## Hi, my name is Dajun (Danim). Welcome to my GitHub page!
 
 Still an undergraduate by now. :tired_face: 
 - Enthusiastic about **AI4S** & **computational mechanics** 
